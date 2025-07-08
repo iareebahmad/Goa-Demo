@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0073e6"        # TextBox Outline
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#ffff01"    # TextBox
+textColor = "#222222"
+font = "sans serif"
