@@ -3,7 +3,7 @@ from api_handler import get_cheapest_fruit  # Mock or real API
 
 # Page Configs
 st.set_page_config(
-    page_title="GOA Demo",
+    page_title="GOA App Demo",
     layout="centered",
     page_icon="🏝️"
 )
