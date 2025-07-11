@@ -8,7 +8,7 @@ st.set_page_config(
     page_icon="🏝️"
 )
 
-# Header
+# Header for the platform
 st.title("🏝️ Grocery Optimisation Assistant")
 st.subheader("Find the cheapest grocery from Blinkit, Zepto & more")
 
