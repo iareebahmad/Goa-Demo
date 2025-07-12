@@ -27,7 +27,7 @@ if fruit:
         if "image" in result:
             st.image(result["image"], width=250, caption=f"{fruit.capitalize()} preview")
     else:
-        # Fallback in case of error or no item found
+        # Fallback in case of error or no item found -- warning alert
         st.warning(result if isinstance(result, str) else "No result found.")
 
 
