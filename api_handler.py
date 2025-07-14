@@ -29,7 +29,7 @@ def get_cheapest_fruit(fruit_name):
             }
         ],
         "mango": [
-            {
+            {   
                 "platform": "Blinkit",
                 "name": "Alphonso Mango 1kg",
                 "price": 149,
